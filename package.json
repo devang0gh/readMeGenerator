@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devang0gh/readMeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devang0gh/readMeGenerator/issues"
+  },
+  "homepage": "https://github.com/devang0gh/readMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
